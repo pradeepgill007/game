@@ -1,0 +1,17 @@
+{
+  "name": "takeaway-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Pradeep",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "node": "^15.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
